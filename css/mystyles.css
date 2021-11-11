@@ -1,0 +1,128 @@
+---
+---
+body .full_width {
+  width: 100;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  padding: 15vw 0;
+  position: relative;
+}
+
+---
+---
+body p {
+  font-size: calc(1vw + 6px);
+}
+
+---
+---
+body h2 {
+  font-size: calc(1.8vw + 8px);
+  padding: 0.2vw 0.9vw;
+  display: inline-block;
+  margin-bottom: 1.5vw;
+  font-weight: 800;
+}
+
+---
+---
+body h4 {
+  font-size: calc(1.4vw + 6px);
+  font-weight: 600;
+}
+
+---
+---
+body .inner {
+  width: 50%;
+  max-width: 700px;
+}
+
+---
+---
+body .logo {
+  width: 80%;
+}
+
+---
+---
+body .arrow {
+  position: absolute;
+  width: 5vw;
+  top: 14.5vw;
+  right: 15vw;
+}
+
+---
+---
+body .yellow {
+  color: #01a2ff;
+  background: #fffc67;
+}
+
+---
+---
+body .yellow h2 {
+  background: #01a2ff;
+  color: #fffc67;
+}
+
+---
+---
+body .grey {
+  background: #929292;
+  color: #fff;
+}
+
+---
+---
+body .grey h2 {
+  color: #929292;
+  background: #fff;
+}
+
+---
+---
+body .blue {
+  background: #01a2ff;
+  color: #fffc67;
+}
+
+---
+---
+body .blue h2 {
+  color: #01a2ff;
+  background: #fffc67;
+}
+
+---
+---
+body .first {
+  padding-bottom: 5vw;
+}
+
+---
+---
+body .first .inner {
+  -ms-flex-line-pack: center;
+      align-content: center;
+}
+
+---
+---
+body .first .down_arrow {
+  margin-top: 15vw;
+  width: 15vw;
+}
+/*# sourceMappingURL=mystyles.css.map */
