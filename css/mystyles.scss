@@ -44,6 +44,11 @@ body {
     .color{
         color: #376599;
     }
+    h3{
+        font-size: calc(2.6vw + 6px);
+        font-family: 'PT Sans', sans-serif;
+        font-weight: 700;  
+    }
     h2 {
         font-size: calc(2.5vw + 8px); 
         padding: 0.2vw 0.9vw;
@@ -59,6 +64,19 @@ body {
     }
     .bl_border{
         border: 4px solid #376599;
+    }
+    .video-flex{
+        display: flex;
+        flex-wrap: wrap;
+        gap: 3vw;
+    }
+    .youtube{
+        width: 25vw;
+        height: 14vw;
+        iframe{
+            width: 100%;
+            height: 100%;
+        }
     }
     .inner {
         width: 90vw;
