@@ -153,7 +153,8 @@ title: Hello407
                 <p class="hl">Wien</p>
                 <p>Gertrude-Frölich-Sandner Straße, 2-4</p>
                 <p>1100, Wien</p>
-                <p>as@407.media</p>
+                <p class="hl">Contact</p>
+                <a href="mailto:info@407.media">info@407.media</a>
             </div>
 
         </div>
