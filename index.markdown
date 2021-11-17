@@ -126,7 +126,7 @@ title: Hello407
     <div class="full_width red">
         <div class="inner row-flex">
             <div class="title-box">
-                <h2>VIDEOS</h2>
+                <h2>Work</h2>
             </div>
             <div class="txt-box video-flex">
                 <div class="youtube"><iframe src="https://www.youtube.com/embed/9xWJ2LJUHe8"
@@ -153,6 +153,7 @@ title: Hello407
                 <p class="hl">Wien</p>
                 <p>Gertrude-Frölich-Sandner Straße, 2-4</p>
                 <p>1100, Wien</p>
+                <p>as@407.media</p>
             </div>
 
         </div>
