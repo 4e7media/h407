@@ -4,9 +4,9 @@ title: Hello407
 ---
 
 <main>
-    <div class="full_width dkblue first">
+    <div class="full_width first" data-parallax="scroll" data-image-src="image/phone.png">
         <h1>HELLO<span class="hl">407</span></h1>
-        <img src="image/Group_4.png" alt="" class="arrow">
+        <!-- <img src="image/Group_4.png" alt="" class="arrow"> -->
     </div>
     <div class="full_width red">
         <div class="inner row-flex">
@@ -24,7 +24,7 @@ title: Hello407
             </div>
         </div>
     </div>
-    <div class="full_width dkblue">
+    <div class="full_width" data-parallax="scroll" data-image-src="image/img_8559.jpg">
         <div class="inner row-flex">
             <div class="title-box">
                 <h2>LESS IS MORE</h2>
@@ -44,38 +44,38 @@ title: Hello407
                 <h2>WHO<br> ARE<br> WE</h2>
             </div>
             <div class="txt-box">
-                <p class="color">Andrew Bennet</p>
+                <p class="color head">Andrew Bennet</p>
                 <img src="image/andrew_bennet.png" alt="" width="300px;" class="bl_border">
-                <p>WPP Managing Director Global (Danone), Y&R Managing Director Europe, TBWA Regional
-                    Director Europe and Asia Pacific, Grey Advertising New York Senior Vice President.</p>
-
-                <p class="color">Florian Pagel</p>
+                <p>WPP Managing Director Global (Danone),<br> Y&R Managing Director Europe,<br> TBWA Regional
+                    Director Europe and Asia Pacific,<br> Grey Advertising New York Senior Vice President.</p>
+                <a class="color" href="mailto:ab@407.media">ab@407.media</a>
+                <p class="color head">Florian Pagel</p>
                 <img src="image/florian_pagel.png" alt="" width="300px;" class="bl_border">
-                <p>Hello White Parrot Founder - Hamburg, Berlin.
-                    Saatchi & Saatchi Creative Director Frankfurt,
-                    Paris, London.
-                    Springer & Jacoby Creative - Hamburg.
+                <p>Hello White Parrot Founder - Hamburg, Berlin.<br>
+                    Saatchi & Saatchi Creative Director Frankfurt,Paris, London.<br>
+                    Springer & Jacoby Creative - Hamburg.<br>
                     BBDO Germany Copywriter.
                 </p>
 
-                <p class="color">Alex Schönburg</p>
+                <p class="color head">Alex Schönburg</p>
                 <img src="image/alex_schoenburg.png" alt="" width="300px;" class="bl_border">
-                <p>407Media Founder General Manager - München/São Paulo/Vienna, Cayenne Founder Partner
-                    Düsseldorf/Barcelona/Prague/Vienna, TBWA Partner Latin America, Grey Advertising Vice President New
+                <p>407Media Founder General Manager - München/São Paulo/Vienna,<br> Cayenne Founder Partner
+                    Düsseldorf/Barcelona/Prague/Vienna,<br> TBWA Partner Latin America,<br> Grey Advertising Vice President New
                     York/Mexico/Toronto
                 </p>
+                <a class="color" href="mailto:as@407.media">as@407.media</a>
             </div>
 
 
         </div>
     </div>
-    <div class="full_width dkblue">
+    <div class="full_width" data-parallax="scroll" data-image-src="image/IMG_1466.jpg">
         <div class="inner row-flex">
             <div class="title-box">
                 <h2>GLOBAL<br> VILLAGE</h2>
             </div>
             <div class="txt-box">
-                <p>We have handled international accounts and worked all over the place.<br>
+                <p>We have handled international accounts and worked all over the world.<br>
                     You can only understand the global village if you live in it.</p>
                 <img src="image/Group_3.png" alt="" width="100%">
             </div>
