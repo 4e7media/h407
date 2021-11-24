@@ -24,7 +24,7 @@ title: Hello407
             </div>
         </div>
     </div>
-    <div class="full_width" data-parallax="scroll" data-image-src="image/img_8559.jpg">
+    <div class="full_width" data-parallax="scroll" data-image-src="image/img_1479.jpg">
         <div class="inner row-flex">
             <div class="title-box">
                 <h2>LESS IS MORE</h2>
@@ -45,12 +45,12 @@ title: Hello407
             </div>
             <div class="txt-box">
                 <p class="color head">Andrew Bennet</p>
-                <img src="image/andrew_bennet.png" alt="" width="300px;" class="bl_border">
+                <img src="image/andrew_bennet.png" alt="" width="300px;">
                 <p>WPP Managing Director Global (Danone),<br> Y&R Managing Director Europe,<br> TBWA Regional
                     Director Europe and Asia Pacific,<br> Grey Advertising New York Senior Vice President.</p>
                 <a class="color" href="mailto:ab@407.media">ab@407.media</a>
                 <p class="color head">Florian Pagel</p>
-                <img src="image/florian_pagel.png" alt="" width="300px;" class="bl_border">
+                <img src="image/florian_pagel.png" alt="" width="300px;">
                 <p>Hello White Parrot Founder - Hamburg, Berlin.<br>
                     Saatchi & Saatchi Creative Director Frankfurt,Paris, London.<br>
                     Springer & Jacoby Creative - Hamburg.<br>
@@ -58,7 +58,7 @@ title: Hello407
                 </p>
 
                 <p class="color head">Alex Schönburg</p>
-                <img src="image/alex_schoenburg.png" alt="" width="300px;" class="bl_border">
+                <img src="image/alex_schoenburg.png" alt="" width="300px;">
                 <p>407Media Founder General Manager - München/São Paulo/Vienna,<br> Cayenne Founder Partner
                     Düsseldorf/Barcelona/Prague/Vienna,<br> TBWA Partner Latin America,<br> Grey Advertising Vice President New
                     York/Mexico/Toronto
@@ -82,10 +82,10 @@ title: Hello407
 
         </div>
     </div>
-    <div class="full_width red">
+    <div class="full_width" data-parallax="scroll" data-image-src="image/bggreen.png">
         <div class="inner row-flex">
             <div class="title-box">
-                <h2>WHY CUSTO<br>MIZED?</h2>
+                <h2>WHY<br> CUSTO<br>MIZED?</h2>
             </div>
             <div class="txt-box">
                 <p>1. Planning stability and security thanks to a guaranteed basal metabolic rate</p>
@@ -123,10 +123,10 @@ title: Hello407
             </div>
         </div>
     </div>
-    <div class="full_width red">
+    <div class="full_width" data-parallax="scroll" data-image-src="image/shoe.png">
         <div class="inner row-flex">
             <div class="title-box">
-                <h2>Work</h2>
+                <h2>WORK</h2>
             </div>
             <div class="txt-box video-flex">
                 <div class="youtube"><iframe src="https://www.youtube.com/embed/9xWJ2LJUHe8"
@@ -154,7 +154,7 @@ title: Hello407
                 <p>Gertrude-Frölich-Sandner Straße, 2-4</p>
                 <p>1100, Wien</p>
                 <p class="hl">Contact</p>
-                <a href="mailto:info@407.media">info@407.media</a>
+                <a href="mailto:info@407.media">hello@407.media</a>
             </div>
 
         </div>
