@@ -73,7 +73,7 @@ title: Hello407
                 <h2>GLOBAL<br> VILLAGE</h2>
             </div>
             <div class="txt-box">
-                <p>We have handle international accounts and worke all over the world.
+                <p>We handle international accounts and work all over the world.
                     You can only understand the global village if you live in it.</p>
                 <img src="image/logos.png" alt="" width="100%">
             </div>
@@ -102,7 +102,7 @@ title: Hello407
                 <h2>MODUS OPERANDI </h2>
             </div>
             <div class="txt-box">
-                <h4>1. We do not “take away business” from the internal teams.</h4>
+                <h4>1. We do not take away business from the internal teams.</h4>
                 <h4>2. We offer companies a complete check-up of their marketing activities, analysing them under an
                     omnichannel strategy perspective. </h4>
                 <p>3.Together with the marketing team, we establish a route map of the past efforts and check it under our
@@ -148,6 +148,9 @@ title: Hello407
                 <p ><span class="hl">Wien</span><br>
                 Gertrude-Frölich-Sandner Straße, 2-4<br>
                 1100, Wien</p>
+                <p ><span class="hl">Madrid</span><br>
+                    4 Calle de la Cruzada Apt 2 Izq<br>
+                    28013, Madrid</p>
                 <p class="hl">Contact</p>
                 <a href="mailto:info@407.media">hello@407.media</a>
             </div>
