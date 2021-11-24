@@ -24,13 +24,13 @@ title: Hello407
             </div>
         </div>
     </div>
-    <div class="full_width" data-parallax="scroll" data-image-src="image/img_1479.jpg">
+    <div class="full_width" data-parallax="scroll" data-image-src="image/2dudes.png">
         <div class="inner row-flex">
             <div class="title-box">
-                <h2>LESS IS MORE</h2>
+                <h2 >LESS IS MORE</h2>
             </div>
             <div class="txt-box">
-                <p>That is why HELLO407 was called into life by the Agencies HelloWhiteParrot And 407Media.<br>
+                <p >That is why HELLO407 was called into life by HelloWhiteParrot and 407Media.
                     Both agencies, tired of the rat race, have decided to offer their expertise in handling
                     international
                     clients in 15 countries for the past 25 years to maximal 3 clients.</p>
@@ -38,18 +38,17 @@ title: Hello407
 
         </div>
     </div>
-    <div class="full_width red">
+    <div class="full_width dkblue">
         <div class="inner row-flex">
             <div class="title-box">
                 <h2>WHO<br> ARE<br> WE</h2>
             </div>
             <div class="txt-box">
-                <p class="color head">Andrew Bennet</p>
+                <p class="hl head">Andrew Bennet</p>
                 <img src="image/andrew_bennet.png" alt="" width="300px;">
                 <p>WPP Managing Director Global (Danone),<br> Y&R Managing Director Europe,<br> TBWA Regional
                     Director Europe and Asia Pacific,<br> Grey Advertising New York Senior Vice President.</p>
-                <a class="color" href="mailto:ab@407.media">ab@407.media</a>
-                <p class="color head">Florian Pagel</p>
+                <p class="hl head">Florian Pagel</p>
                 <img src="image/florian_pagel.png" alt="" width="300px;">
                 <p>Hello White Parrot Founder - Hamburg, Berlin.<br>
                     Saatchi & Saatchi Creative Director Frankfurt,Paris, London.<br>
@@ -57,13 +56,12 @@ title: Hello407
                     BBDO Germany Copywriter.
                 </p>
 
-                <p class="color head">Alex Schönburg</p>
-                <img src="image/alex_schoenburg.png" alt="" width="300px;">
+                <p class="hl head">Alex Schönburg</p>
+                <img src="image/alex.jpg" alt="" width="300px;">
                 <p>407Media Founder General Manager - München/São Paulo/Vienna,<br> Cayenne Founder Partner
                     Düsseldorf/Barcelona/Prague/Vienna,<br> TBWA Partner Latin America,<br> Grey Advertising Vice President New
                     York/Mexico/Toronto
                 </p>
-                <a class="color" href="mailto:as@407.media">as@407.media</a>
             </div>
 
 
@@ -88,17 +86,17 @@ title: Hello407
                 <h2>WHY<br> CUSTO<br>MIZED?</h2>
             </div>
             <div class="txt-box">
-                <p>1. Planning stability and security thanks to a guaranteed basal metabolic rate</p>
-                <p>2. Possibility to internationalize the agency quickly</p>
-                <p>3. Client has direct access to creative talents</p>
-                <p>4. Close interaction between the agency and client enables a detailed approach to the brand's needs
+                <p class="color">1. Planning stability and security thanks to a guaranteed basal metabolic rate.</p>
+                <p class="color">2. Possibility to internationalize the agency quickly.</p>
+                <p class="color">3. Client has direct access to creative talents.</p>
+                <p class="color">4. Close interaction between the agency and client enables a detailed approach to the brand's needs.
                 </p>
-                <p>5. Total dedication due to no dilution or diverging agency interests</p>
+                <p class="color">5. Total dedication due to no dilution or diverging agency interests.</p>
             </div>
 
         </div>
     </div>
-    <div class="full_width dkblue">
+    <div class="full_width" data-parallax="scroll" data-image-src="image/bglila.png">
         <div class="inner row-flex">
             <div class="title-box">
                 <h2>MODUS OPERANDI </h2>
@@ -142,7 +140,7 @@ title: Hello407
             </div>
         </div>
     </div>
-    <div class="full_width dkblue">
+    <div class="full_width" data-parallax="scroll" data-image-src="image/lilaphone.png">
         <div class="inner row-flex">
             <div class="title-box"></div>
             <div class="txt-box">
