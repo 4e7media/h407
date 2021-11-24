@@ -67,7 +67,7 @@ title: Hello407
 
         </div>
     </div>
-    <div class="full_width" data-parallax="scroll" data-image-src="image/logos.png">
+    <div class="full_width" data-parallax="scroll" data-image-src="image/IMG_1466.JPG">
         <div class="inner row-flex">
             <div class="title-box">
                 <h2>GLOBAL<br> VILLAGE</h2>
@@ -75,7 +75,7 @@ title: Hello407
             <div class="txt-box">
                 <p>We have handle international accounts and worke all over the world.
                     You can only understand the global village if you live in it.</p>
-                <img src="image/Group_3.png" alt="" width="100%">
+                <img src="image/logos.png" alt="" width="100%">
             </div>
 
         </div>
