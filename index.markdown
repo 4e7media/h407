@@ -67,13 +67,13 @@ title: Hello407
 
         </div>
     </div>
-    <div class="full_width" data-parallax="scroll" data-image-src="image/IMG_1466.jpg">
+    <div class="full_width" data-parallax="scroll" data-image-src="image/logos.png">
         <div class="inner row-flex">
             <div class="title-box">
                 <h2>GLOBAL<br> VILLAGE</h2>
             </div>
             <div class="txt-box">
-                <p>We have handled international accounts and worked all over the world.<br>
+                <p>We have handle international accounts and worke all over the world.
                     You can only understand the global village if you live in it.</p>
                 <img src="image/Group_3.png" alt="" width="100%">
             </div>
@@ -87,7 +87,7 @@ title: Hello407
             </div>
             <div class="txt-box">
                 <p class="color">1. Planning stability and security thanks to a guaranteed basal metabolic rate.</p>
-                <p class="color">2. Possibility to internationalize the agency quickly.</p>
+                <p class="color">2. Our network enables to internationalise the agency quickly</p>
                 <p class="color">3. Client has direct access to creative talents.</p>
                 <p class="color">4. Close interaction between the agency and client enables a detailed approach to the brand's needs.
                 </p>
@@ -102,22 +102,19 @@ title: Hello407
                 <h2>MODUS OPERANDI </h2>
             </div>
             <div class="txt-box">
-                <h4>1) We do not “take away business” from the internal teams.</h4>
-                <h4>2) We offer companies a complete check-up of their marketing activities, analysing them under an
+                <h4>1. We do not “take away business” from the internal teams.</h4>
+                <h4>2. We offer companies a complete check-up of their marketing activities, analysing them under an
                     omnichannel strategy perspective. </h4>
-                <p>Together with the marketing team, we establish a route map of the past efforts and check it under our
+                <p>3.Together with the marketing team, we establish a route map of the past efforts and check it under our
                     omnichannel action plan to recognise weaknesses and strengths.</p>
-                <h4>3) We design the best customer journey strategy throughout the existing client possibilities
+                <h4>4. We design the best customer journey strategy throughout the existing client possibilities
                     (workforce/budget). </h4>
-                <p>We help to equalise the client’s budget within the best communication venues and the available
+                <p>5.We help to equalise the client’s budget within the best communication venues and the available
                     capacities, enabling the in-house team to implement and accompany them effectively. Using our
                     knowledge
                     in the digital world and the existing tools to better take advantage of it, we help clients to
                     optimise
                     their budgets, squeezing the most of every step in the customer journey, independent of size.</p>
-                <h4>4) We train your team on the basics of optimal digital media buying, RTB, Programmatic Advertising,
-                    Ad
-                    placements, SEO, and KPI’s.</h4>
             </div>
         </div>
     </div>
@@ -145,12 +142,12 @@ title: Hello407
             <div class="title-box"></div>
             <div class="txt-box">
                 <h3>Offices</h3>
-                <p class="hl">Hamburg</p>
-                <p>Am Langenzug 3</p>
-                <p>22085 Hamburg</p>
-                <p class="hl">Wien</p>
-                <p>Gertrude-Frölich-Sandner Straße, 2-4</p>
-                <p>1100, Wien</p>
+                <p><span class="hl">Hamburg</span><br>
+                Am Langenzug 3<br>
+                22085 Hamburg</p>
+                <p ><span class="hl">Wien</span><br>
+                Gertrude-Frölich-Sandner Straße, 2-4<br>
+                1100, Wien</p>
                 <p class="hl">Contact</p>
                 <a href="mailto:info@407.media">hello@407.media</a>
             </div>
