@@ -41,13 +41,13 @@ title: Hello407
     <div class="full_width dkblue">
         <div class="inner row-flex">
             <div class="title-box">
-                <h2>WHO<br> ARE<br> WE</h2>
+                <h2>WHO<br> WE<br> ARE</h2>
             </div>
             <div class="txt-box">
                 <p class="hl head">Andrew Bennet</p>
                 <img src="image/andrew_bennet.png" alt="" width="300px;">
-                <p>WPP Managing Director Global (Danone),<br> Y&R Managing Director Europe,<br> TBWA Regional
-                    Director Europe and Asia Pacific,<br> Grey Advertising New York Senior Vice President.</p>
+                <p>WPP Managing Director Global (Danone).<br> Y&R Managing Director Europe.<br> TBWA Regional
+                    Director Europe and Asia Pacific.<br> Grey Advertising New York Senior Vice President.</p>
                 <p class="hl head">Florian Pagel</p>
                 <img src="image/florian_pagel.png" alt="" width="300px;">
                 <p>Hello White Parrot Founder - Hamburg, Berlin.<br>
@@ -58,9 +58,9 @@ title: Hello407
 
                 <p class="hl head">Alex Schönburg</p>
                 <img src="image/alex.jpg" alt="" width="300px;">
-                <p>407Media Founder General Manager - München/São Paulo/Vienna,<br> Cayenne Founder Partner
-                    Düsseldorf/Barcelona/Prague/Vienna,<br> TBWA Partner Latin America,<br> Grey Advertising Vice President New
-                    York/Mexico/Toronto
+                <p>407Media Founder General Manager - München/São Paulo/Vienna.<br> Cayenne Founder Partner
+                    Düsseldorf/Barcelona/Prague/Vienna.<br> TBWA Partner Latin America.<br> Grey Advertising Vice President New
+                    York/Mexico/Toronto.
                 </p>
             </div>
 
@@ -87,7 +87,7 @@ title: Hello407
             </div>
             <div class="txt-box">
                 <p class="color">1. Planning stability and security thanks to a guaranteed basal metabolic rate.</p>
-                <p class="color">2. Our network enables to internationalise the agency quickly</p>
+                <p class="color">2. Our network enables to internationalise the agency quickly.</p>
                 <p class="color">3. Client has direct access to creative talents.</p>
                 <p class="color">4. Close interaction between the agency and client enables a detailed approach to the brand's needs.
                 </p>
