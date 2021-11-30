@@ -8,7 +8,7 @@ title: Hello407
         <h1>HELLO<span class="hl">407</span></h1>
         <!-- <img src="image/Group_4.png" alt="" class="arrow"> -->
     </div>
-    <div class="full_width" data-parallax="scroll" data-image-src="image/bgred.png">
+    <div class="full_width" data-parallax="scroll" data-image-src="image/bgred1.png">
         <div class="inner row-flex">
             <div class="content">
                 <div class="title-box">
