@@ -89,11 +89,11 @@ title: Hello407
                     <h2>WHO<br> WE<br> ARE</h2>
                 </div>
                 <div class="txt-box">
-                    <p class="hl head margin">Andrew Bennet <br> International Account Services</p>
+                    <p class="color head margin">Andrew Bennet <br> International Account Services</p>
                     <img src="image/andrew_bennet.png" alt="" width="300px;">
                     <p>WPP Managing Director Global (Danone).<br> Y&R Managing Director Europe.<br> TBWA Regional
                         Director Europe and Asia Pacific.<br> Grey Advertising New York Senior Vice President.</p>
-                    <p class="hl head">Florian Pagel <br> Creative Director</p>
+                    <p class="color head">Florian Pagel <br> Creative Director</p>
                     <img src="image/florian_pagel.png" alt="" width="300px;">
                     <p>Hello White Parrot Founder - Hamburg, Berlin.<br>
                         Saatchi & Saatchi Creative Director - Frankfurt,Paris, London.<br>
@@ -101,7 +101,7 @@ title: Hello407
                         BBDO Germany - Copywriter.
                     </p>
     
-                    <p class="hl head">Alex Schönburg<br>Planning</p>
+                    <p class="color head">Alex Schönburg<br>Planning</p>
                     <img src="image/alex.jpg" alt="" width="300px;">
                     <p>407Media Founder General Manager - München/São Paulo/Vienna.<br> Cayenne Founder Partner -
                         Düsseldorf/Barcelona/Prague/Vienna.<br> TBWA Partner Latin America.<br> Grey Advertising Vice
@@ -116,7 +116,7 @@ title: Hello407
         </div>
     </div>
     <div class="full_width" data-parallax="scroll" data-image-src="image/zukunfts.jpg">
-        <div class="inner row-flex">
+        <div class="inner row-flex dark">
             <div class="content">
                 <div class="title-box">
                     <h2>GLOBAL<br> VILLAGE</h2>
@@ -171,13 +171,13 @@ title: Hello407
             <div class="title-box"></div>
             <div class="txt-box">
                 <h3>OFFICES</h3>
-                <p><span class="hl">Hamburg</span><br>
+                <p><span class="hl">Germany</span><br>
                     Am Langenzug 3<br>
                     22085 Hamburg</p>
-                <p><span class="hl">Wien</span><br>
+                <p><span class="hl">Austria</span><br>
                     Gertrude-Frölich-Sandner Straße, 2-4<br>
                     1100, Wien</p>
-                <p><span class="hl">Madrid</span><br>
+                <p><span class="hl">Spain</span><br>
                     4 Calle de la Cruzada Apt 2 Izq<br>
                     28013, Madrid</p>
                 <p class="hl">Contact</p>
