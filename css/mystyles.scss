@@ -26,13 +26,11 @@ body {
 
     .full_width {
         width: 100%;
-        min-height: 70vh;
         display: flex;
         justify-content: center;
         align-items: center;
         flex-direction: column;
         position: relative;
-        padding: 5vh 0;
 
         .head {
             margin-top: 2em;
@@ -104,9 +102,20 @@ body {
     }
 
     .inner {
-        width: 90vw;
+        width: 100vw;
+        min-height: 70vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 5vh 0;
     }
-
+    .dark{
+        background-color: rgba(0, 0, 0, 0.4);
+    }
+    .content{
+        display: flex;
+        width: 90%;
+    }
     .logo {
         width: 80%;
     }
@@ -114,7 +123,6 @@ body {
     .hl {
         color: #FB5C56;
     }
-
     .red {
         background: #FB5C56;
 
