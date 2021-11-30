@@ -24,13 +24,13 @@ title: Hello407
             </div>
         </div>
     </div>
-    <div class="full_width" data-parallax="scroll" data-image-src="image/img_8487.jpg">
+    <div class="full_width" data-parallax="scroll" data-image-src="image/cumface.jpg">
         <div class="inner row-flex">
             <div class="title-box">
                 <h2 >LESS IS MORE</h2>
             </div>
             <div class="txt-box">
-                <p>That is why HELLO407 was called into life by HelloWhiteParrot and 407Media are trailing a new path. We will offer our expertise in handling international clients in 15 countries for the past 25 years to maximal 3 clients as a customized agency. We call it the Content Vortex, where we create the first strategic and creative impulses whose movements will then expand organically without our involvement.</p>
+                <p>That is why HELLO407, called into life by HelloWhiteParrot and 407Media, this is trailing a new path. We will offer our expertise in handling international clients in 15 countries for the past 25 years to maximal 3 clients as a customized agency. We call it the Content Vortex, where we create the first strategic and creative impulses whose movements will then expand organically without our involvement.</p>
             </div>
 
         </div>
