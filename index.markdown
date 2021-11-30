@@ -16,7 +16,7 @@ title: Hello407
                 </div>
                 <div class="txt-box">
                     <p>The world is changing at incredible speed.<br>
-                        technologies are disrupting whole industries.</p>
+                        Technologies are disrupting whole industries.</p>
                     <p>Consumers are shifting their behaviour.<br>
                         The challenges for marketers increase tremendously. </p>
                     <p>What worked yesterday, will be just a sweet memory tomorrow.<br>
