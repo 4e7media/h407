@@ -89,10 +89,6 @@ title: Hello407
                     <h2>WHO<br> WE<br> ARE</h2>
                 </div>
                 <div class="txt-box">
-                    <p class="color head margin">Andrew Bennet <br> International Account Services</p>
-                    <img src="image/andrew_bennet.png" alt="" width="300px;">
-                    <p>WPP Managing Director Global (Danone).<br> Y&R Managing Director Europe.<br> TBWA Regional
-                        Director Europe and Asia Pacific.<br> Grey Advertising New York Senior Vice President.</p>
                     <p class="color head">Florian Pagel <br> Creative Director</p>
                     <img src="image/florian_pagel.png" alt="" width="300px;">
                     <p>Hello White Parrot Founder - Hamburg, Berlin.<br>
@@ -108,6 +104,10 @@ title: Hello407
                         President - New
                         York/Mexico/Toronto.
                     </p>
+                    <p class="color head margin">Andrew Bennet <br> International Account Services</p>
+                    <img src="image/andrew_bennet.png" alt="" width="300px;">
+                    <p>WPP Managing Director Global (Danone).<br> Y&R Managing Director Europe.<br> TBWA Regional
+                        Director Europe and Asia Pacific.<br> Grey Advertising New York Senior Vice President.</p>
                 </div>
             </div>
             
