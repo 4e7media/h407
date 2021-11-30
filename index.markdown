@@ -24,7 +24,7 @@ title: Hello407
             </div>
         </div>
     </div>
-    <div class="full_width" data-parallax="scroll" data-image-src="image/2dudes.png">
+    <div class="full_width" data-parallax="scroll" data-image-src="image/img_8487.jpg">
         <div class="inner row-flex">
             <div class="title-box">
                 <h2 >LESS IS MORE</h2>
