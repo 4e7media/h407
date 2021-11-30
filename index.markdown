@@ -30,12 +30,37 @@ title: Hello407
                 <h2 >LESS IS MORE</h2>
             </div>
             <div class="txt-box">
-                <p >That is why HELLO407 was called into life by HelloWhiteParrot and 407Media.
-                    Both agencies, tired of the rat race, have decided to offer their expertise in handling
-                    international
-                    clients in 15 countries for the past 25 years to maximal 3 clients.</p>
+                <p>That is why HELLO407 was called into life by HelloWhiteParrot and 407Media are trailing a new path. We will offer our expertise in handling international clients in 15 countries for the past 25 years to maximal 3 clients as a customized agency. We call it the Content Vortex, where we create the first strategic and creative impulses whose movements will then expand organically without our involvement.</p>
             </div>
 
+        </div>
+    </div>
+    <div class="full_width" data-parallax="scroll" data-image-src="image/bggreen.png">
+        <div class="inner row-flex">
+            <div class="title-box">
+                <h2>WHY<br> CUSTO<br>MIZED?</h2>
+            </div>
+            <div class="txt-box">
+                <p class="color">1. It is better and more efficient than big multinational agencies and small local ones.</p>
+                <p class="color">2. It is better than in-house agencies, where you won’t have the talent of such calibre and you don’t have the overheads of outsourced agencies.</p>
+                <p class="color">3. Planning stability and security thanks to a guaranteed basal metabolic rate.</p>
+                <p class="color">4. Total dedication due to no dilution or diverging agency interests.</p>
+            </div>
+
+        </div>
+    </div>
+    <div class="full_width" data-parallax="scroll" data-image-src="image/bglila.png">
+        <div class="inner row-flex">
+            <div class="title-box">
+                <h2>MODUS OPERANDI </h2>
+            </div>
+            <div class="txt-box">
+                <p>1. We offer companies a complete check-up of their marketing activities, analysing them under an omnichannel strategy perspective.</p>
+                <p>2. Together with the marketing team, we establish a route map of the past efforts and check it under our omnichannel action plan to recognise weaknesses and strengths. </p>
+                <p>3. We design the best customer journey strategy throughout the existing client possibilities (workforce/budget).</p>
+                <p>4. We create the umbrella campaigns. </p>
+                <p>5.We help to equalise the client’s budget within the best communication venues and the available capacities, enabling the in-house team to implement and accompany them effectively. Using our knowledge in the digital world and the existing tools to better take advantage of it, we help clients to optimise their budgets, squeezing the most of every step in the customer journey, independent of size.</p>
+            </div>
         </div>
     </div>
     <div class="full_width dkblue">
@@ -44,11 +69,11 @@ title: Hello407
                 <h2>WHO<br> WE<br> ARE</h2>
             </div>
             <div class="txt-box">
-                <p class="hl head">Andrew Bennet</p>
+                <p class="hl head">Andrew Bennet <br> International Account Services</p>
                 <img src="image/andrew_bennet.png" alt="" width="300px;">
                 <p>WPP Managing Director Global (Danone).<br> Y&R Managing Director Europe.<br> TBWA Regional
                     Director Europe and Asia Pacific.<br> Grey Advertising New York Senior Vice President.</p>
-                <p class="hl head">Florian Pagel</p>
+                <p class="hl head">Florian Pagel <br> Creative Director</p>
                 <img src="image/florian_pagel.png" alt="" width="300px;">
                 <p>Hello White Parrot Founder - Hamburg, Berlin.<br>
                     Saatchi & Saatchi Creative Director Frankfurt,Paris, London.<br>
@@ -56,7 +81,7 @@ title: Hello407
                     BBDO Germany Copywriter.
                 </p>
 
-                <p class="hl head">Alex Schönburg</p>
+                <p class="hl head">Alex Schönburg<br>Planning</p>
                 <img src="image/alex.jpg" alt="" width="300px;">
                 <p>407Media Founder General Manager - München/São Paulo/Vienna.<br> Cayenne Founder Partner
                     Düsseldorf/Barcelona/Prague/Vienna.<br> TBWA Partner Latin America.<br> Grey Advertising Vice President New
@@ -78,44 +103,6 @@ title: Hello407
                 <img src="image/logos.png" alt="" width="100%">
             </div>
 
-        </div>
-    </div>
-    <div class="full_width" data-parallax="scroll" data-image-src="image/bggreen.png">
-        <div class="inner row-flex">
-            <div class="title-box">
-                <h2>WHY<br> CUSTO<br>MIZED?</h2>
-            </div>
-            <div class="txt-box">
-                <p class="color">1. Planning stability and security thanks to a guaranteed basal metabolic rate.</p>
-                <p class="color">2. Our network enables to internationalise the agency quickly.</p>
-                <p class="color">3. Client has direct access to creative talents.</p>
-                <p class="color">4. Close interaction between the agency and client enables a detailed approach to the brand's needs.
-                </p>
-                <p class="color">5. Total dedication due to no dilution or diverging agency interests.</p>
-            </div>
-
-        </div>
-    </div>
-    <div class="full_width" data-parallax="scroll" data-image-src="image/bglila.png">
-        <div class="inner row-flex">
-            <div class="title-box">
-                <h2>MODUS OPERANDI </h2>
-            </div>
-            <div class="txt-box">
-                <h4>1. We do not take away business from the internal teams.</h4>
-                <h4>2. We offer companies a complete check-up of their marketing activities, analysing them under an
-                    omnichannel strategy perspective. </h4>
-                <p>3.Together with the marketing team, we establish a route map of the past efforts and check it under our
-                    omnichannel action plan to recognise weaknesses and strengths.</p>
-                <h4>4. We design the best customer journey strategy throughout the existing client possibilities
-                    (workforce/budget). </h4>
-                <p>5.We help to equalise the client’s budget within the best communication venues and the available
-                    capacities, enabling the in-house team to implement and accompany them effectively. Using our
-                    knowledge
-                    in the digital world and the existing tools to better take advantage of it, we help clients to
-                    optimise
-                    their budgets, squeezing the most of every step in the customer journey, independent of size.</p>
-            </div>
         </div>
     </div>
     <div class="full_width" data-parallax="scroll" data-image-src="image/shoe.png">
@@ -141,7 +128,7 @@ title: Hello407
         <div class="inner row-flex">
             <div class="title-box"></div>
             <div class="txt-box">
-                <h3>Offices</h3>
+                <h3>OFFICES</h3>
                 <p><span class="hl">Hamburg</span><br>
                 Am Langenzug 3<br>
                 22085 Hamburg</p>
