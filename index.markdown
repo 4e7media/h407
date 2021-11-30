@@ -8,7 +8,7 @@ title: Hello407
         <h1>HELLO<span class="hl">407</span></h1>
         <!-- <img src="image/Group_4.png" alt="" class="arrow"> -->
     </div>
-    <div class="full_width red">
+    <div class="full_width" data-parallax="scroll" data-image-src="image/bgred.png">
         <div class="inner row-flex">
             <div class="content">
                 <div class="title-box">
@@ -82,30 +82,30 @@ title: Hello407
             </div>
         </div>
     </div>
-    <div class="full_width dkblue">
+    <div class="full_width" data-parallax="scroll" data-image-src="image/bgblue.png">
         <div class="inner row-flex">
             <div class="content">
                 <div class="title-box">
                     <h2>WHO<br> WE<br> ARE</h2>
                 </div>
                 <div class="txt-box">
-                    <p class="hl head">Andrew Bennet <br> International Account Services</p>
+                    <p class="hl head margin">Andrew Bennet <br> International Account Services</p>
                     <img src="image/andrew_bennet.png" alt="" width="300px;">
                     <p>WPP Managing Director Global (Danone).<br> Y&R Managing Director Europe.<br> TBWA Regional
                         Director Europe and Asia Pacific.<br> Grey Advertising New York Senior Vice President.</p>
                     <p class="hl head">Florian Pagel <br> Creative Director</p>
                     <img src="image/florian_pagel.png" alt="" width="300px;">
                     <p>Hello White Parrot Founder - Hamburg, Berlin.<br>
-                        Saatchi & Saatchi Creative Director Frankfurt,Paris, London.<br>
+                        Saatchi & Saatchi Creative Director - Frankfurt,Paris, London.<br>
                         Springer & Jacoby Creative - Hamburg.<br>
-                        BBDO Germany Copywriter.
+                        BBDO Germany - Copywriter.
                     </p>
     
                     <p class="hl head">Alex Schönburg<br>Planning</p>
                     <img src="image/alex.jpg" alt="" width="300px;">
-                    <p>407Media Founder General Manager - München/São Paulo/Vienna.<br> Cayenne Founder Partner
+                    <p>407Media Founder General Manager - München/São Paulo/Vienna.<br> Cayenne Founder Partner -
                         Düsseldorf/Barcelona/Prague/Vienna.<br> TBWA Partner Latin America.<br> Grey Advertising Vice
-                        President New
+                        President - New
                         York/Mexico/Toronto.
                     </p>
                 </div>
@@ -115,7 +115,7 @@ title: Hello407
 
         </div>
     </div>
-    <div class="full_width" data-parallax="scroll" data-image-src="image/bglila.png">
+    <div class="full_width" data-parallax="scroll" data-image-src="image/zukunfts.jpg">
         <div class="inner row-flex">
             <div class="content">
                 <div class="title-box">
