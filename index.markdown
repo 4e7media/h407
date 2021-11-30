@@ -26,7 +26,7 @@ title: Hello407
             </div>
         </div>
     </div>
-    <div class="full_width" data-parallax="scroll" data-image-src="image/4e7.png">
+    <div class="full_width" data-parallax="scroll" data-image-src="image/hands.png">
         <div class="inner row-flex dark">
             <div class="content">
                 <div class="title-box">
