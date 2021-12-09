@@ -91,8 +91,8 @@ title: Hello407
                 <div class="txt-box">
                     <p class="color head margin">Florian Pagel <br> Creative Director</p>
                     <img src="image/florian_pagel.png" alt="" width="300px;">
-                    <p>Hello White Parrot Founder - Hamburg, Berlin.<br>
-                        Saatchi & Saatchi Creative Director - Frankfurt,Paris, London.<br>
+                    <p>Hello White Parrot Founder - Hamburg/Berlin.<br>
+                        Saatchi & Saatchi Creative Director - Frankfurt/Paris/London.<br>
                         Springer & Jacoby Creative - Hamburg.<br>
                         BBDO Germany - Copywriter.
                     </p>
