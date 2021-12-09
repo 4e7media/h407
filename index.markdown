@@ -124,7 +124,7 @@ title: Hello407
                 <div class="txt-box">
                     <p>We handle international accounts and work all over the world.<br>
                         You can only understand the global village if you live in it.</p>
-                    <img src="image/logos.png" alt="" width="100%">
+                    <img src="image/newlogos.png" alt="" width="100%">
                 </div>
             </div>
 
