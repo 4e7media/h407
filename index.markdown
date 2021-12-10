@@ -33,11 +33,7 @@ title: Hello407
                     <h2>LESS IS MORE</h2>
                 </div>
                 <div class="txt-box">
-                    <p>That is why HELLO407, called into life by HelloWhiteParrot and 407Media, is
-                        trailing a new path. We offer our expertise in handling international clients in 15 countries
-                        for the past 25 years to a maximum of 3 clients as a customized agency. We call it the Content Vortex,
-                        where we create the first strategic and creative impulses whose movements will then expand
-                        organically without our involvement.</p>
+                    <p>That is why HELLO407 was called into life by HelloWhiteParrot and 407Media are trailing a new path. We will offer our expertise in handling international clients in 15 countries for the past 25 years to a maximum of 3 clients as a customized agency. We call it the Content Vortex, where we create the first strategic and creative impulses whose movements will then expand organically with little involvement on our side.</p>
                 </div>
             </div>
         </div>
@@ -49,12 +45,13 @@ title: Hello407
                     <h2>WHY<br> CUSTO<br>MIZED?</h2>
                 </div>
                 <div class="txt-box">
-                    <p class="color">1. It is better and more efficient than big multinational agencies and small local
-                        ones.</p>
-                    <p class="color">2. It is better than in-house agencies, where you won’t have the talent of such calibre
-                        and you don’t have the overheads of outsourced agencies.</p>
-                    <p class="color">3. Planning stability and security thanks to a guaranteed basal metabolic rate.</p>
-                    <p class="color">4. Total dedication due to no dilution or diverging agency interests.</p>
+                    <p>
+                        It combines the know-how of big multinational agencies with the flexibility of small ones.
+                        It brings top notch talent in house without the overheads of outsourced agencies.
+                        Planning stability and security thanks to a guaranteed basal metabolic rate.
+                        Total dedication due to no dilution or diverging agency interests.
+                    </p>
+            
                 </div>
             </div>
         </div>
@@ -66,18 +63,10 @@ title: Hello407
                     <h2>MODUS OPERANDI </h2>
                 </div>
                 <div class="txt-box">
-                    <p>1. We offer companies a complete check-up of their marketing activities, analysing them under an
-                        omnichannel strategy perspective.</p>
-                    <p>2. Together with the marketing team, we establish a route map of the past efforts and check it under
-                        our omnichannel action plan to recognise weaknesses and strengths. </p>
-                    <p>3. We design the best customer journey strategy throughout the existing client possibilities
-                        (workforce/budget).</p>
-                    <p>4. We create the umbrella campaigns. </p>
-                    <p>5.We help to equalise the client’s budget within the best communication venues and the available
-                        capacities, enabling the in-house team to implement and accompany them effectively. Using our
-                        knowledge in the digital world and the existing tools to better take advantage of it, we help
-                        clients to optimise their budgets, squeezing the most of every step in the customer journey,
-                        independent of size.</p>
+                    <p>1. We offer companies a complete check-up of their marketing activities, analysing them under an omnichannel strategy perspective.</p>
+                    <p>2. We design the best customer journey strategy for the existing resources (workforce/budget). </p>
+                    <p>3. We create the umbrella campaigns.</p>
+                    <p>4.We help to equalise the client’s budget in within the available capacities, enabling the in-house team to implement and accompany them effectively.</p>
                 </div>
             </div>
         </div>
