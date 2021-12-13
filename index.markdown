@@ -27,7 +27,7 @@ title: Hello407
         </div>
     </div>
     <div class="full_width" data-parallax="scroll" data-image-src="image/hands.png">
-        <div class="inner row-flex dark">
+        <div class="inner row-flex">
             <div class="content">
                 <div class="title-box">
                     <h2>LESS IS MORE</h2>
@@ -46,8 +46,8 @@ title: Hello407
                 </div>
                 <div class="txt-box">
                     <p>
-                        It combines the know-how of big multinational agencies with the flexibility of small ones.
-                        It brings top notch talent in house without the overheads of outsourced agencies.
+                        We combine the know-how of big multinational agencies with the flexibility of small ones.
+                        We bring top notch talent in house without the overheads of outsourced agencies.
                         Planning stability and security thanks to a guaranteed basal metabolic rate.
                         Total dedication due to no dilution or diverging agency interests.
                     </p>
@@ -56,8 +56,8 @@ title: Hello407
             </div>
         </div>
     </div>
-    <div class="full_width" data-parallax="scroll" data-image-src="image/IMG_1466.JPG">
-        <div class="inner row-flex dark">
+    <div class="full_width" data-parallax="scroll" data-image-src="image/2girls.png">
+        <div class="inner row-flex">
             <div class="content">
                 <div class="title-box">
                     <h2>MODUS OPERANDI </h2>
@@ -104,8 +104,8 @@ title: Hello407
 
         </div>
     </div>
-    <div class="full_width" data-parallax="scroll" data-image-src="image/zukunfts.jpg">
-        <div class="inner row-flex dark">
+    <div class="full_width" data-parallax="scroll" data-image-src="image/future.png">
+        <div class="inner row-flex">
             <div class="content">
                 <div class="title-box">
                     <h2>GLOBAL<br> VILLAGE</h2>
