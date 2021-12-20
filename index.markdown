@@ -164,8 +164,8 @@ title: Hello407
             <div class="txt-box">
                 <h3>OFFICES</h3>
                 <p><span class="hl">Germany</span><br>
-                    Am Langenzug 3<br>
-                    22085 Hamburg</p>
+                    Gerhofstraße 40  3<br>
+                    20354 Hamburg</p>
                 <p><span class="hl">Austria</span><br>
                     Gertrude-Frölich-Sandner Straße, 2-4<br>
                     1100, Wien</p>
