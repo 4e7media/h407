@@ -91,7 +91,7 @@ title: Hello407
     
                     <p class="color head">Alex Schönburg<br>Planning</p>
                     <img src="image/alex.jpg" alt="" width="300px;">
-                    <p>407Media Founder General Manager - München/São Paulo/Vienna.<br> Cayenne Founder Partner -
+                    <p>407Media Founder General Manager - München/<br>São Paulo/Vienna.<br> Cayenne Founder Partner -
                         Düsseldorf/Barcelona/Prague/Vienna.<br> TBWA Partner Latin America.<br> Grey Advertising Vice
                         President - New
                         York/Mexico/Toronto.
